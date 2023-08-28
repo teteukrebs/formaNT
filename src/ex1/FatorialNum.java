@@ -1,6 +1,6 @@
 package ex1;
 
-public class fatorialNum {
+public class FatorialNum {
         public static int resolveFatorial (int numero) {
             if (numero < 0) {
                 System.out.println("Para calacular o fatorial o numero deve ser positivo");
