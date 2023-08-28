@@ -6,7 +6,8 @@ public class Main {
         int numero = teclado.nextInt();
         int respostaFatorial = FatorialNum.resolveFatorial(numero);
         if (respostaFatorial != -1){
-            System.out.println("O fatorial ddo seu numero é" + respostaFatorial);
+            System.out.println("O fatorial do seu numero é: " + respostaFatorial);
         }
 
-    }}
+    }
+}
