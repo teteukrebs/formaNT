@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4607f6b-1965-4c84-94f5-73993491e03a" name="Changes" comment="ex 6 resolvido">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4607f6b-1965-4c84-94f5-73993491e03a" name="Changes" comment="ex 7 e 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693256502477</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ex 7 e 8">
+      <option name="closed" value="true" />
+      <created>1693337392019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693337392019</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +199,7 @@
     <MESSAGE value="ex 1,2,3 resolvidos" />
     <MESSAGE value="ex 1,2,3,4,5 resolvidos" />
     <MESSAGE value="ex 6 resolvido" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex 6 resolvido" />
+    <MESSAGE value="ex 7 e 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex 7 e 8" />
   </component>
 </project>
