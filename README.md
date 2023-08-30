@@ -5,3 +5,4 @@ A maior dificuldade foi entender e como fazer as criptografias dos exercicios  6
 Outra difculdade foi o das threds, onde nâo sabia como fazer os usos das threds e tambem tive que usar ajuda de uma IA.
 Eu não ultilizava InteliJ, mas como imagino que o foco é desenvolvimento em java me aventurei para fazer esses exercicios no inteliJ onde nao consegui rodar usando o run no prorpio inteliJ,
 para rodar tive que usar o terminal usando javac ... e rodando por ali mesmo.
+Para compartilhar o link deste repositorio tive que deixa-lo publico.
